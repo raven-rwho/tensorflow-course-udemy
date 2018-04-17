@@ -1,0 +1,12 @@
+# NumPy
+is mainly used to read and modify the values as NumPy arrays, because NumPy offers a lot different methods to 
+fiddle with the around with the values
+
+# Pandas
+Maily used to read in the values from csv files. Normally you read in the values as a dataframe as
+in Spark
+
+# Perceptron
+Is the mathmatical abstraction of a neuron - which consosts of several inputs (values) some weights (which are then multiplied)
+an activation function (tanh, RelU, etc) and cost function which is used to determine the difference of the prediction
+and the actual result to achieve some learning. The cost function is applied via backpropagation.
